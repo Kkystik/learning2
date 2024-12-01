@@ -110,7 +110,7 @@ camera.far = 50000; // distance from screen
 camera.setFocalLength(24); //object size
 
 var texsSrc = {
-  fog: 'https://raw.githack.com/SvKocharina/4-kurs/main/Praktika8%20foto1.png' }; //object source
+  fog: 'https://raw.githack.com/Kkystik/learning2/main/P8F1.jpg' }; //object source
 
 var fog = new Fog();
 
